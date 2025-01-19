@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm kesh00</h1>
 <h3 align="center">A passionate Frontend Developer and UI/UX Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kesara-hansajith&label=Profile%20views&color=0e75b6&style=flat" alt="kesara-hansajith" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kesara-hansajith&label=Profile%20views&color=0e75b6&style=flat" alt="kesara-hansajith" /> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
